@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="./rabbit.gif" width="280"/>
+  <img src="./SR-blink.gif" width="230"/>
 </p>
 
-<h1 align="center">Hi , I'm Elenor Z</h1>
+<h3 align="center">Hello, I'm Elenor Z.</h3>
+<h4 align="center">Developer • Designer • Indie Builder </h4>
 
 <p align="center">
 Creating thoughtful experiences through code. 
@@ -10,3 +11,7 @@ Creating thoughtful experiences through code.
 </p>
 
 
+<h3 align="center">Current Projects</h3>
+<p align="center">
+
+</p>
