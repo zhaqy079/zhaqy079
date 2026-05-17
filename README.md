@@ -11,7 +11,7 @@ Creating thoughtful experiences through code.
 </p>
 
 
-<h3 align="center">Current Projects</h3>
+<h3 align="center">  <img src="./Star.svg" width="20"/> Current Projects</h3>
 <p align="center">
 
 </p>
